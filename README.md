@@ -17,6 +17,3 @@ Year:
 Feedback:
 Feel free to leave feedback or suggestions for improvement in the Issues section of the repository.
 
-Contributions:
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
-
