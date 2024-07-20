@@ -14,6 +14,3 @@ Sahithi
 Year:
 2024
 
-Feedback:
-Feel free to leave feedback or suggestions for improvement in the Issues section of the repository.
-
